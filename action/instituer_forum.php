@@ -3,7 +3,7 @@
 /***************************************************************************\
  *  SPIP, Systeme de publication pour l'internet                           *
  *                                                                         *
- *  Copyright (c) 2001-2018                                                *
+ *  Copyright (c) 2001-2019                                                *
  *  Arnaud Martin, Antoine Pitrou, Philippe Riviere, Emmanuel Saint-James  *
  *                                                                         *
  *  Ce programme est un logiciel libre distribue sous licence GNU/GPL.     *
@@ -46,7 +46,7 @@ function instituer_un_forum($statut, $row) {
 	while ($id_messages) {
 		sql_updateq("spip_forum", array("statut" => $statut), sql_in("id_forum", $id_messages) . " AND statut = '$old'");
 
-		$id_messages = array_map('reset', sql_allfetsel("id_forum", "spip_forum", sql_in("id_parent", $id_messages)));
+		$id_messages = array_column(sql_allfetsel("id_forum", "spip_forum", sql_in("id_parent", $id_messages)), 'id_forum');
 	}
 
 	// Notifier de la publication du message, s'il etait 'prop'

@@ -64,6 +64,7 @@
 	<langue code="fa" url="https://trad.spip.net/tradlang_module/forum?lang_cible=fa" total="138" traduits="127" relire="0" modifs="1" nouveaux="10" pourcent="92.03">
 		<traducteur nom="Davood Hossein" lien="https://trad.spip.net/auteur/davood-hossein" />
 		<traducteur nom="George" lien="https://trad.spip.net/auteur/جورج-قندلفت" />
+		<traducteur nom="kamran" lien="https://trad.spip.net/auteur/kamran-7033" />
 	</langue>
 	<langue code="fon" url="https://trad.spip.net/tradlang_module/forum?lang_cible=fon" total="138" traduits="47" relire="0" modifs="21" nouveaux="70" pourcent="34.06">
 	</langue>
@@ -82,7 +83,7 @@
 	<langue code="gl" url="https://trad.spip.net/tradlang_module/forum?lang_cible=gl" total="138" traduits="69" relire="0" modifs="15" nouveaux="54" pourcent="50.00">
 	</langue>
 	<langue code="hac" url="https://trad.spip.net/tradlang_module/forum?lang_cible=hac" total="138" traduits="34" relire="0" modifs="7" nouveaux="97" pourcent="24.64">
-		<traducteur nom="akomarani" lien="https://trad.spip.net/auteur/akomarani" />
+		<traducteur nom="Aku Marani" lien="https://trad.spip.net/auteur/akomarani" />
 		<traducteur nom="Ehwen" lien="https://trad.spip.net/auteur/ewen" />
 	</langue>
 	<langue code="he" url="https://trad.spip.net/tradlang_module/forum?lang_cible=he" total="138" traduits="43" relire="0" modifs="18" nouveaux="77" pourcent="31.16">
@@ -100,7 +101,8 @@
 	</langue>
 	<langue code="it_fem" url="https://trad.spip.net/tradlang_module/forum?lang_cible=it_fem" total="138" traduits="62" relire="0" modifs="22" nouveaux="54" pourcent="44.93">
 	</langue>
-	<langue code="ja" url="https://trad.spip.net/tradlang_module/forum?lang_cible=ja" total="138" traduits="49" relire="0" modifs="19" nouveaux="70" pourcent="35.51">
+	<langue code="ja" url="https://trad.spip.net/tradlang_module/forum?lang_cible=ja" total="138" traduits="138" relire="0" modifs="0" nouveaux="0" pourcent="100.00">
+		<traducteur nom="origenius" lien="https://trad.spip.net/auteur/origenius" />
 	</langue>
 	<langue code="km" url="https://trad.spip.net/tradlang_module/forum?lang_cible=km" total="138" traduits="58" relire="0" modifs="19" nouveaux="61" pourcent="42.03">
 	</langue>
